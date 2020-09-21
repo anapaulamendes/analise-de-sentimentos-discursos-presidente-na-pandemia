@@ -12,6 +12,16 @@ A ferramenta escolhida para a raspagem foi o Selenium, pois páginas governament
 
 Foi escrito um *script* para a raspagem, este está disponível na pasta e arquivo `raspagem-dos-discursos/raspa-discursos.ipynb`.
 
+## Análise do Corpus
+
+Para a análise do corpus foram feitas medidas básicas como: contagem de palavras mais frequentes, plotagem de palavras mais frequentes, ocorrência de determinadas palavras com relação ao contexto da pandemia, dispersão de palavras no contexto da pandemia ao longo dos discursos, riqueza léxica dos discursos, *collocations*, frequência de pronomes.
+
+Esta análise está disponível na pasta e arquivo `analise/analise-do-corpus.ipynb`.
+
+## Análise de Sentimentos
+
+Esta análise está disponível na pasta e arquivo `analise/analise-de-sentimentos.ipynb`.
+
 ## Requisitos
 
  - [Python 3](https://www.python.org/downloads/)
